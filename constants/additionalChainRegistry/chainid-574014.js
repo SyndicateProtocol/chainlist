@@ -10,7 +10,7 @@ export const data = {
   "nativeCurrency": {
     "name": "USDC",
     "symbol": "USDC",
-    "decimals": 18
+    "decimals": 6
   },
   "rpc": ["https://rpc.playstadium.gg"],
   "faucets": [],
